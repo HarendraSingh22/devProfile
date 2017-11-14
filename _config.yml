@@ -1,8 +1,8 @@
 
 # Setup
-title:               DevAid
-email:               example@gmail.com
-tagline:             Free Jekyll theme made for developers
+title:               Harendra Singh
+email:               mail@harendrasingh.tech
+tagline:             Personal Website of Harendra
 url:                 "http://harendrasingh.tech/devProfile" # insert your site's URL
 baseurl:             ""
 
@@ -22,12 +22,12 @@ google_tag_manager:
 bing_verification:
 
 # Social
-github_username: thundergolfer
-twitter_username: 3rdwave_themes
-instagram_username: kevin/
-facebook: 3rdwavethemes/
-linkedin_username: xiaoying
-dribbble_username: Xiaoying
+github_username: harendrasingh22
+twitter_username: abc
+instagram_username: abc
+facebook: reviewrulezz.tk
+linkedin_username: abc
+dribbble_username: abc
 
 # Custom vars
 version:             1.0.1
