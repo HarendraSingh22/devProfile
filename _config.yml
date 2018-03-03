@@ -16,18 +16,18 @@ author: # you can edit these to be your personal details
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics:UA-115060004-1
 google_tag_manager:
 # Bing services
 bing_verification:
 
 # Social
 github_username: harendrasingh22
-twitter_username: abc
-instagram_username: abc
+twitter_username: /
+instagram_username: /
 facebook: reviewrulezz.tk
-linkedin_username: abc
-dribbble_username: abc
+linkedin_username: harendrasingh98
+dribbble_username: /
 
 # Custom vars
 version:             1.0.1
