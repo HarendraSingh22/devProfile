@@ -17,6 +17,6 @@ Install [Jekyll](https://jekyllrb.com/) if you haven't already.
 
 A Jekyll server will be run locally so that you can see your site.
 
-### Download
+## Download
 
 [Download Tar Package](https://github.com/kevit/devaid-jekyll-theme/blob/master/archive.tar.bz2), or [get .zip package](https://github.com/thundergolfer/devaid-jekyll-theme/archive/master.zip)
