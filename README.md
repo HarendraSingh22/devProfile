@@ -8,14 +8,6 @@
 
 early stage, pls open issue if you need any updates
 
-### Installing
-
-Install [Jekyll](https://jekyllrb.com/) if you haven't already.
-
-1. Either clone this repo onto your computer, or download a package (tar or .zip) and un-pack it.
-2. From `/devaid-jekyll-theme`, or the site's root directory run `jekyll serve`.
-
-A Jekyll server will be run locally so that you can see your site.
 
 ### Download
 
